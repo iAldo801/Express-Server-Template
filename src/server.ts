@@ -25,6 +25,6 @@ app.use('/api/user', require('./routes/api/user'))
 
 
 app.listen(settings.PORT, () => {
-    console.log(chalk.green` │ 🚀 Server Loaded ⤵`);
+    console.log(chalk.green(' │ 🚀 Server Loaded ⤵'));
     console.log('    └─ 🌐 http://localhost:80')
 })
