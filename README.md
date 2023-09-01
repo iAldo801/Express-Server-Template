@@ -1,1 +1,1 @@
-# An example of a express server but made in TypeScript instead of JavaScript also the engine is set EJS
+# An example of a express server using TypeScript and EJS for the view motor/rendering???
